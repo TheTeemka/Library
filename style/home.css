@@ -1,0 +1,29 @@
+.home{
+	height:90%;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+    flex-direction: column;
+}
+
+.block-quote{	
+	height:30%;
+	font-size: 30px;
+	font-weight: 400;
+	font-family: "Times New Roman", 'Ancient Runes', serif;
+	border-left: 3px solid black;
+	margin-top:130px;
+	margin-bottom : -50px;
+}
+
+.quote{
+	padding-left:20px;
+}
+.credit{
+	padding-left:500px;
+}
+.home-heroes{
+	width : 60% ;
+	height:auto ;
+}
+

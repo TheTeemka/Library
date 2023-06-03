@@ -1,0 +1,12 @@
+
+.list{
+    font-style:none;
+    font-size: 20px;
+}
+.list th , td{
+    font-style: inherit;
+    padding:10px 70px ;
+}
+.add_book_link{
+    font-size: 20px;
+}
